@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+  <title id="title">Course result dashboard</title>
+  <desc id="desc">A student dashboard interface screenshot illustration.</desc>
+  <rect width="720" height="450" fill="#d9edf2"/>
+  <rect x="52" y="46" width="616" height="358" rx="8" fill="#ffffff"/>
+  <rect x="52" y="46" width="154" height="358" rx="8" fill="#172422"/>
+  <circle cx="128" cy="112" r="34" fill="#e9b44c"/>
+  <path d="M92 178h78M92 220h96M92 262h64M92 304h84" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <rect x="248" y="90" width="154" height="92" rx="8" fill="#eaf5f1"/>
+  <rect x="428" y="90" width="154" height="92" rx="8" fill="#fff6df"/>
+  <rect x="248" y="216" width="334" height="130" rx="8" fill="#ffffff" stroke="#dce5e1" stroke-width="4"/>
+  <path d="M276 304l58-56 58 34 72-72 74 48" fill="none" stroke="#2f7d68" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M278 124h86M278 150h54M456 124h82M456 150h56" stroke="#172422" stroke-width="10" stroke-linecap="round"/>
+</svg>

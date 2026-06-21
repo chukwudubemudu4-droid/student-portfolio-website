@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img" aria-labelledby="title desc">
+  <title id="title">Student study scene</title>
+  <desc id="desc">A student desk with laptop, books, notes, and study tools.</desc>
+  <rect width="760" height="520" fill="#d9edf2"/>
+  <rect x="62" y="84" width="636" height="352" rx="8" fill="#ffffff"/>
+  <rect x="112" y="134" width="238" height="160" rx="8" fill="#2f7d68"/>
+  <rect x="132" y="156" width="198" height="24" rx="4" fill="#d9edf2"/>
+  <rect x="132" y="198" width="156" height="18" rx="4" fill="#ffffff"/>
+  <rect x="132" y="230" width="178" height="18" rx="4" fill="#ffffff"/>
+  <rect x="392" y="126" width="206" height="252" rx="8" fill="#fff6df"/>
+  <path d="M425 166h135M425 206h135M425 246h94M425 286h120" stroke="#172422" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="154" cy="364" r="38" fill="#d95d55"/>
+  <path d="M208 364h138" stroke="#e9b44c" stroke-width="46" stroke-linecap="round"/>
+  <path d="M208 364h138" stroke="#172422" stroke-width="5" stroke-linecap="round"/>
+  <rect x="450" y="390" width="128" height="20" rx="5" fill="#2f7d68"/>
+  <rect x="472" y="414" width="128" height="20" rx="5" fill="#d95d55"/>
+  <circle cx="642" cy="146" r="24" fill="#e9b44c"/>
+  <path d="M86 436h588" stroke="#172422" stroke-width="10" stroke-linecap="round"/>
+</svg>

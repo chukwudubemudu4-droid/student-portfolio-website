@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 650" role="img" aria-labelledby="title desc">
+  <title id="title">Student portrait illustration</title>
+  <desc id="desc">A professional student portrait illustration for the portfolio homepage.</desc>
+  <rect width="520" height="650" fill="#d9edf2"/>
+  <path d="M0 490c64-38 130-55 198-51 92 5 144 57 224 45 43-6 75-28 98-51v217H0z" fill="#2f7d68"/>
+  <circle cx="259" cy="242" r="112" fill="#75402f"/>
+  <path d="M153 232c8-94 57-151 134-151 75 0 126 56 132 149-31-27-67-42-111-43-55-2-105 14-155 45z" fill="#172422"/>
+  <path d="M158 545c8-84 48-135 102-135s95 51 102 135z" fill="#ffffff"/>
+  <path d="M199 412l61 73 61-73c72 15 116 61 132 138H67c16-77 60-123 132-138z" fill="#e9b44c"/>
+  <path d="M207 354c0 33 23 63 53 63s53-30 53-63v-38H207z" fill="#8b4e38"/>
+  <ellipse cx="260" cy="261" rx="82" ry="96" fill="#9b5b42"/>
+  <circle cx="225" cy="263" r="8" fill="#172422"/>
+  <circle cx="296" cy="263" r="8" fill="#172422"/>
+  <path d="M236 314c16 14 34 14 50 0" fill="none" stroke="#172422" stroke-width="8" stroke-linecap="round"/>
+  <path d="M161 238c39-29 83-44 132-44 45 0 83 13 113 40-7-82-52-133-119-133-70 0-115 53-126 137z" fill="#22312e"/>
+  <path d="M202 210c42 19 94 23 154 12-22-42-58-63-107-63-36 0-64 17-47 51z" fill="#172422"/>
+  <rect x="83" y="74" width="82" height="82" rx="8" fill="#ffffff" opacity=".75"/>
+  <path d="M105 122h39M105 104h39M105 140h28" stroke="#2f7d68" stroke-width="8" stroke-linecap="round"/>
+  <rect x="362" y="92" width="82" height="82" rx="8" fill="#ffffff" opacity=".75"/>
+  <path d="M385 134l16 16 24-39" fill="none" stroke="#d95d55" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

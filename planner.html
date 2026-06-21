@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Academic Planner | Udu George Chukwudubem</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav container" aria-label="Main navigation">
+      <a class="brand" href="index.html" aria-label="Udu George Chukwudubem homepage">
+        <span class="brand-mark">UG</span>
+        <span>Udu George Chukwudubem</span>
+      </a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-menu" aria-label="Open navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <ul class="nav-links" id="site-menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="projects.html">Projects</a></li>
+        <li><a href="planner.html" aria-current="page">Academic Planner</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="page-main">
+    <section class="page-title container">
+      <p class="eyebrow">Academic Planner</p>
+      <h1>Manage study tasks and academic deadlines</h1>
+      <p>Add, complete, and remove tasks as your study week changes.</p>
+    </section>
+
+    <section class="planner-layout container">
+      <form class="planner-form" id="task-form">
+        <h2>Add Task</h2>
+        <label for="task-title">Task Name</label>
+        <input id="task-title" name="taskTitle" type="text" placeholder="Example: Submit COS 106 assignment">
+
+        <div class="form-row">
+          <div>
+            <label for="task-category">Category</label>
+            <select id="task-category" name="taskCategory">
+              <option value="Assignment">Assignment</option>
+              <option value="Revision">Revision</option>
+              <option value="Project">Project</option>
+              <option value="Exam">Exam</option>
+            </select>
+          </div>
+          <div>
+            <label for="task-date">Due Date</label>
+            <input id="task-date" name="taskDate" type="date">
+          </div>
+        </div>
+
+        <button class="button button-primary" type="submit">Add Task</button>
+        <p class="form-message" id="planner-feedback" aria-live="polite"></p>
+      </form>
+
+      <section class="task-board" aria-labelledby="task-board-title">
+        <div class="task-board-header">
+          <div>
+            <p class="eyebrow">Task List</p>
+            <h2 id="task-board-title">This Week</h2>
+          </div>
+          <div class="task-stats" aria-label="Task summary">
+            <span><strong id="total-tasks">0</strong> total</span>
+            <span><strong id="completed-tasks">0</strong> done</span>
+          </div>
+        </div>
+
+        <ul class="task-list" id="task-list"></ul>
+        <p class="empty-state" id="empty-state">No tasks yet. Add your first academic task.</p>
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <p>&copy; <span data-year></span> Udu George Chukwudubem. Student Portfolio for COS 106.</p>
+      <a href="contact.html">Send a message</a>
+    </div>
+  </footer>
+</body>
+</html>

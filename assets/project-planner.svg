@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+  <title id="title">Academic planner project</title>
+  <desc id="desc">A task planner interface screenshot illustration.</desc>
+  <rect width="720" height="450" fill="#eaf5f1"/>
+  <rect x="54" y="48" width="612" height="354" rx="8" fill="#ffffff"/>
+  <rect x="88" y="82" width="248" height="286" rx="8" fill="#fff6df"/>
+  <rect x="116" y="122" width="188" height="20" rx="5" fill="#172422"/>
+  <rect x="116" y="170" width="172" height="44" rx="8" fill="#ffffff"/>
+  <rect x="116" y="232" width="172" height="44" rx="8" fill="#ffffff"/>
+  <rect x="116" y="306" width="116" height="42" rx="8" fill="#2f7d68"/>
+  <rect x="376" y="86" width="250" height="70" rx="8" fill="#d9edf2"/>
+  <rect x="376" y="178" width="250" height="70" rx="8" fill="#ffffff" stroke="#dce5e1" stroke-width="4"/>
+  <rect x="376" y="270" width="250" height="70" rx="8" fill="#ffffff" stroke="#dce5e1" stroke-width="4"/>
+  <circle cx="408" cy="213" r="12" fill="#2f7d68"/>
+  <circle cx="408" cy="305" r="12" fill="#d95d55"/>
+  <path d="M438 204h130M438 225h90M438 296h130M438 317h80" stroke="#172422" stroke-width="10" stroke-linecap="round"/>
+</svg>
